@@ -6,7 +6,7 @@ To help monitoring Ray applications, Ray
 - Exposes metrics in a Prometheus format. We'll call the endpoint to access these metrics a Prometheus endpoint.
 - Support custom metrics APIs that resemble Prometheus `metric types <https://prometheus.io/docs/concepts/metric_types/>`_.
 
-This page describes how to acces these metrics using Prometheus.
+This page describes how to access these metrics using Prometheus.
 
 .. note::
 
